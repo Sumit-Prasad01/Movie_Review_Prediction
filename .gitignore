@@ -138,4 +138,4 @@ cython_debug/
 # VS Code settings
 .vscode/
 
-movie_env
+movie-rev
